@@ -20,10 +20,10 @@ Cunet (aka CoreUnit.NET) uses this kind of markdown files for docs and project d
 
 # Application
 You can currently choose from 4 simple example application projects:
-- cmd tool
-- discord bot
-- web service
-- docker compose stack
+- [cmd tool](./basic-cmd-tool.md)
+- [discord bot](./basic-discord-bot.md)
+- [web service](./basic-web-service.md)
+- [docker compose stack](./basic-docker-compose-stack.md)
 
 # A cunet project
 The following are some of the key points of a cunet project that define the purpose, benefits, structure, work steps and future of a project.
