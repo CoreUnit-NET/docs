@@ -19,11 +19,22 @@
 Cunet (aka CoreUnit.NET) uses this kind of markdown files for docs and project definitions.
 
 # Application
+The application consists of 5 parts:
+1. [Google Forms *introduction*](https://forms.gle/Jo4hYGeW8ZCQRBES7)
+2. Join the cunet discord server and create a support ticket there. **Please** mention in the ticket that you would like to apply and that you have filled in the form.
+3. Cunet project *definition* (see below)
+4. Project *implementation* (see below)
+5. Project *presentation & talk* (after our response)
+
 You can currently choose from 4 simple example application projects:
 - [cmd tool](./basic-cmd-tool.md)
 - [discord bot](./basic-discord-bot.md)
 - [web service](./basic-web-service.md)
 - [docker compose stack](./basic-docker-compose-stack.md)
+
+**Or** if you have an existing project, you can send a git repo link to instand.  
+For your own git repo, please provide a `cunet` branch with a `project.md` using one of the 4 templates above!
+
 
 # A cunet project
 The following are some of the key points of a cunet project that define the purpose, benefits, structure, work steps and future of a project.
