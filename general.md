@@ -21,12 +21,12 @@ Cunet (aka CoreUnit.NET) uses this kind of markdown files for docs and project d
 # Application
 The application consists of 5 parts:
 1. [Google Forms *introduction*](https://forms.gle/Jo4hYGeW8ZCQRBES7)
-2. Join the cunet discord server and create a support ticket there. **Please** mention in the ticket that you would like to apply and that you have filled in the form.
+2. Join the [cunet discord server](https://discord.com/invite/GJSbyJ5Jpe) and create a support ticket there. **Please** mention in the ticket that you would like to apply and that you have filled in the form. On the discord server you can also find some more infos about cunet.
 3. Cunet project *definition* (see below)
 4. Project *implementation* (see below)
 5. Project *presentation & talk* (after our response)
 
-You can currently choose from 4 simple example application projects:
+You can choose from 4 simple example application projects: (or use a similar existing, see below)
 - [cmd tool](./basic-cmd-tool.md)
 - [discord bot](./basic-discord-bot.md)
 - [web service](./basic-web-service.md)
