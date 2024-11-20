@@ -2,6 +2,9 @@
 *This document and its intellectual property belong to CoreUnit.NET and more precisely [NobleMajo](https://github.com/noblemajo).*  
 *The forwarding, use, modification or copying of individual sections is prohibited without the direct authorisation of NobleMajo.*
 
+# Docs
+Cunet (aka CoreUnit.NET) uses this kind of markdown files for docs and project definitions.
+
 - [Docs](#docs)
 - [Application](#application)
 - [A cunet project](#a-cunet-project)
@@ -14,9 +17,6 @@
   - [Data](#data)
   - [Steps](#steps)
   - [Future](#future)
-
-# Docs
-Cunet (aka CoreUnit.NET) uses this kind of markdown files for docs and project definitions.
 
 # Application
 The application consists of 5 parts:
