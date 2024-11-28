@@ -2,6 +2,9 @@
 *This document and its intellectual property belong to CoreUnit.NET and more precisely [NobleMajo](https://github.com/noblemajo).*  
 *The forwarding, use, modification or copying of individual sections is prohibited without the direct authorisation of NobleMajo.*
 
+# CoreUnit.NET
+Get more info [here](https://coreunit.net/about/).
+
 # Docs
 Cunet (aka CoreUnit.NET) uses this kind of markdown files for docs and project definitions.
 
@@ -27,7 +30,7 @@ Its needed to get general infos about you and test your knowledge about our used
 
 ### 2. Discord server
 Join the [cunet discord server](https://discord.com/invite/GJSbyJ5Jpe) and create a support ticket there.
-**Please** mention in the ticket that you would like to apply and that you have filled in the form. On the discord server you can also find some more infos about cunet.
+**Please** mention in the ticket that you would like to apply and that you have filled in the form.
 
 Because we only communicate via discord this is to get you on the server and notice your application.
 
