@@ -38,6 +38,7 @@ Its needed to get general infos about you and test your knowledge about our used
 ## 2. Discord server
 Join the [cunet discord server](https://discord.com/invite/GJSbyJ5Jpe) and create a support ticket there.
 **Please** mention in the ticket that you would like to apply and that you have filled the form.
+*We use UTC as the default time zone and 24-hour format for agreements.*
 
 ## 3. Project definition
 Find a project that suits you.
